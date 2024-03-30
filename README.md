@@ -1,8 +1,6 @@
-Hi there 👋
+## Hi 👋, I'm [Dawei Liu](http://davidliuk.github.io/blog/)
 
 ![Visitor Count](https://profile-counter.glitch.me/davidliuk/count.svg) 
-
-I'm Dawei Liu
 
 - 🏫 MSE Computer Graphic and Game Techonology @ UPenn 26'
 - 🧑‍🎓 BE Software Engineering @ NEU 24'
