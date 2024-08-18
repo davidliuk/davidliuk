@@ -1,10 +1,11 @@
 ## Hi 👋, I'm [Dawei Liu](http://davidliuk.github.io/blog/)
 
-![Visitor Count](https://profile-counter.glitch.me/davidliuk/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/davidliuk/count.svg)
 
-- 🏫 MSE Computer Graphic and Game Techonology @ UPenn 26'
+- 🏫 MS Computer Graphic and Game Techonology @ UPenn 26'
 - 🧑‍🎓 BE Software Engineering @ NEU 24'
-- 🔭 Backend Software Developement Engineer Intern @ JD.com 23'
+- 📫 Software Developement Engineer Intern @ Amazon 24'
+- 🔭 Software Developement Engineer Intern @ JD.com 23'
 
 ![Dawei's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidliuk&show_icons=true&theme=tokyonight)
 
