@@ -7,8 +7,6 @@
 - 📫 Software Developement Engineer Intern @ Amazon 24'
 - 🔭 Software Developement Engineer Intern @ JD.com 23'
 
-![Dawei's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidliuk&show_icons=true&theme=tokyonight)
-
 <!--
 **davidliuk/davidliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
