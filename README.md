@@ -4,6 +4,7 @@
 
 - 🏫 MS Computer Graphic and Game Techonology @ UPenn 26'
 - 🧑‍🎓 BE Software Engineering @ NEU 24'
+- 🎵 Software Developement Engineer Intern @ TikTok 25'
 - 📫 Software Developement Engineer Intern @ Amazon 24'
 - 🔭 Software Developement Engineer Intern @ JD.com 23'
 
