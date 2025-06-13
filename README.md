@@ -4,9 +4,11 @@
 
 - 🏫 MS Computer Graphic and Game Techonology @ UPenn 26'
 - 🧑‍🎓 BE Software Engineering @ NEU 24'
-- 🎵 Software Developement Engineer Intern @ TikTok 25'
-- 📫 Software Developement Engineer Intern @ Amazon 24'
-- 🔭 Software Developement Engineer Intern @ JD.com 23'
+- 🎵 Software Engineer Intern @ TikTok 25' Commerce Ads - Ads Core
+- 🍌 Software Developement Engineer Intern @ Amazon 24' Global Mile
+- 🛍️ Software Developement Engineer Intern @ JD.com 23' Algorithm Tool
+
+Welcome to connect me at my [LinkedIn](https://www.linkedin.com/in/davidliuk/) 🎉!
 
 <!--
 **davidliuk/davidliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
