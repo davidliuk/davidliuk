@@ -1,10 +1,8 @@
 ## Hi 👋, I'm [Dawei Liu](http://davidliuk.github.io/blog/)
 
-![Visitor Count](https://profile-counter.glitch.me/davidliuk/count.svg)
-
-- 🏫 MS Computer Graphic and Game Techonology @ UPenn 26'
+- 🏫 MSE Computer and Information Science @ UPenn 26'
 - 🧑‍🎓 BE Software Engineering @ NEU 24'
-- 🎵 Software Engineer Intern @ TikTok 25' Commerce Ads - Ads Core
+- 🎵 Software Engineer Intern @ TikTok 25' Commerce Ad
 - 🍌 Software Developement Engineer Intern @ Amazon 24' Global Mile
 - 🛍️ Software Developement Engineer Intern @ JD.com 23' Algorithm Tool
 
