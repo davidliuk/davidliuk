@@ -2,9 +2,9 @@
 
 - 🏫 MSE Computer and Information Science @ UPenn 26'
 - 🧑‍🎓 BE Software Engineering @ NEU 24'
-- 🎵 Software Engineer Intern @ TikTok 25' Commerce Ad
-- 🍌 Software Developement Engineer Intern @ Amazon 24' Global Mile
-- 🛍️ Software Developement Engineer Intern @ JD.com 23' Algorithm Tool
+- 🎵 Software Engineer Intern @ TikTok 25' Commerce Ad (Return Offer 2026)
+- 🍌 Software Developement Engineer Intern @ Amazon 24' Global Mile  (Return Offer 2026)
+- 🛍️ Backend Software Engineer Intern @ JD.com 23' Algorithm Tool
 
 Welcome to connect me at my [LinkedIn](https://www.linkedin.com/in/davidliuk/) 🎉!
 
