@@ -1,10 +1,10 @@
 ## Hi 👋, I'm [Dawei Liu](http://davidliuk.github.io/blog/)
 
-- 🏫 MSE Computer and Information Science @ UPenn 26'
-- 🧑‍🎓 BE Software Engineering @ NEU 24'
-- 🎵 Software Engineer Intern @ TikTok 25' Commerce Ad (Return Offer 2026)
-- 🍌 Software Developement Engineer Intern @ Amazon 24' Global Mile  (Return Offer 2026)
-- 🛍️ Backend Software Engineer Intern @ JD.com 23' Algorithm Tool
+- 🏫 M.S.E. Computer and Information Science @ UPenn 26'
+- 🧑‍🎓 B.E. Software Engineering @ NEU 24'
+- 🎵 Software Engineer Intern @ TikTok 25' | Shop Ad (Full time Return Offer 2026)
+- 🍌 Software Developement Engineer Intern @ Amazon 24' | Global Mile  (Full time Return Offer 2026)
+- 🛍️ Backend Software Engineer Intern @ JD.com 23' | Algorithm Tool
 
 Welcome to connect me at my [LinkedIn](https://www.linkedin.com/in/davidliuk/) 🎉!
 
