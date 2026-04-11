@@ -1,6 +1,6 @@
 ## Hi 👋, I'm [Dawei Liu](https://davidliuk.github.io/)
 
-> **Pushing the boundaries of autonomous AI Agentic Systems.**
+> **Pushing the boundaries of autonomous Agentic Systems.**
 
 - 🎓 **M.S.E. in Computer and Information Science** @ **UPenn** ('26)
 - 🎓 **B.E. in Software Engineering** @ **Northeastern University** ('24)
@@ -14,6 +14,6 @@ I am an AI researcher driven by the potential of **Agentic Systems**. I work at 
 
 ### 💻 Engineering Experience
 
-* **TikTok** | Software Engineer Intern (Shop Ads)
-* **Amazon** | SDE Intern (Global Mile, OpenTelemetry)
-* **JD.com** | SDE Intern (AI Computing Platform)
+* **TikTok** | SWE Intern, Shop Ads, May - Dec 2025
+* **Amazon** | SDE Intern, Global Mile, Jun - Sep 2024
+* **JD.com** | SDE Intern, AI Computing Platform, Jul - Oct 2023
